@@ -9,6 +9,7 @@ import styles from './App.module.css';
 class App extends Component {
   state = {
     images: [],
+    
     currentPage: 1,
     searchQuery: '',
     isLoading: false,

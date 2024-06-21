@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { TailSpin } from 'react-loader-spinner';
 import styles from './Loader.module.css';
+import { TailSpin } from 'react-loader-spinner';
 
 class Loader extends Component {
   render() {
